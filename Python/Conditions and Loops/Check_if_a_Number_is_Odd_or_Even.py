@@ -9,6 +9,7 @@
 #A number is odd if it’s not divisible by 2.
 #Print "The number is even" or "The number is odd" based on the result.
 
+#Solution
 # Ask the user to enter a number
 numb = int(input("Enter a number "))
 
