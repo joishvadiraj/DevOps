@@ -1,6 +1,7 @@
-# Git Command & references
+# GIT Command & references
+----------------------
 
-## Git Global Configuration
+## GIT Global Configuration
 1. From the command line, change into the repository directory.
 2. Set your username:
 ```console
