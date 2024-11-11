@@ -6,5 +6,5 @@
 $git config user.name "FIRST_NAME LAST_NAME"
 3. Set your email address:
 $git config user.email "MY_NAME@example.com"
-4.Verify your configuration by displaying your configuration file:
+4. Verify your configuration by displaying your configuration file:
 cat .git/config
