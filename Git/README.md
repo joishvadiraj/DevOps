@@ -16,8 +16,6 @@ $ git config user.email "MY_NAME@example.com"
 $ cat .git/config
 ```
 ------------------------------
-## GIT Commands CheatSheet
-
 # Git Commands Cheat Sheet
 
 ## Git Basics
